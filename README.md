@@ -1,15 +1,15 @@
-[![GoDoc](https://godoc.org/github.com/fishy/go-flagutils?status.svg)](https://godoc.org/github.com/fishy/go-flagutils)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/fishy/go-flagutils)](https://pkg.go.dev/github.com/fishy/go-flagutils)
 [![Go Report Card](https://goreportcard.com/badge/github.com/fishy/go-flagutils)](https://goreportcard.com/report/github.com/fishy/go-flagutils)
 
 # Go Flag Utils
 
 This is a Go library that provides a few types you can use with
-[flag.Var()](https://godoc.org/flag#Var).
+[flag.Var()](https://pkg.go.dev/flag?tab=doc#Var).
 
 ## Sample Code
 
 There are detailed examples for each type
-[on GoDoc](https://godoc.org/github.com/fishy/go-flagutils#pkg-examples),
+[on pkg.go.dev](https://pkg.go.dev/github.com/fishy/go-flagutils?tab=doc#pkg-examples),
 but here's a quick example:
 
 ```go
