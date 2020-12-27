@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/fishy/go-flagutils"
+	"go.yhsif.com/flagutils"
 )
 
 func TestOneOf(t *testing.T) {

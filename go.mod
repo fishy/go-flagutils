@@ -1,1 +1,3 @@
-module github.com/fishy/go-flagutils
+module go.yhsif.com/flagutils
+
+go 1.15
